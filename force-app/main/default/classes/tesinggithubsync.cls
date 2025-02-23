@@ -5,4 +5,8 @@ public with sharing class tesinggithubsync {
     public tesinggithubsync22() {
 
     }
+    public testingfeature1()
+    {
+        
+    }
 }
